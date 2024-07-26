@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Niyati Savant</h1>
-<h3 align="center">A enthusiastic ML developer from India</h3>
+<h3 align="center">A enthusiastic AI-ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Some Python game-based projects**
+- 🔭 I’m currently working on **ML model for Myntra Hackathon**
 
-- 🌱 I’m currently learning **Python, Supervised Machine Learning Algorithms, Neural networks**
+- 🌱 I’m currently learning **Neural networks**
 
-- 👯 I’m looking to collaborate on **A cool Python/AI project**
+- 👯 I’m looking to collaborate on **A real-life-applicable Python/AI project**
 
-- 💬 Ask me about **C, Python, linear and logistic regression**
+- 💬 Ask me about **C, Python, Supervised and Unsupervised learning**
 
 - 📫 How to reach me **savantniyati@gmail.com**
 
